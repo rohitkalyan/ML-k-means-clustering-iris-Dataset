@@ -7,7 +7,7 @@ This code can be run on terminal.
 
 -->Input:
 Please run the following command:
-Python Project3_1001774382.py
+Python Project3_1002070724.py
 
 -->The elbow graph is displayed first. Now close this graph to continue the code and the next Kmeans graph will be displayed with the centroids in it.
 
