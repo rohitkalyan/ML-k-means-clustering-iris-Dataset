@@ -15,8 +15,6 @@ Python Project3_1002070724.py
 
 -->Output:
 
-(base) bhuvan@bhuvans-MBP K-means-clustering-master % python Project3.py
-
 The following are the 3 centroids of the k=3 means clusetering:
 [[7.11052632 3.06842105 6.10526316 2.03684211]
  [6.075      2.83       4.645      1.5975    ]
